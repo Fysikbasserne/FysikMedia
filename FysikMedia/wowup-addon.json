@@ -1,0 +1,11 @@
+{
+    "id": "FysikMedia",
+    "title": "FysikMedia",
+    "version": "1.0.1",
+    "interface": 90207,
+    "summary": "Shared Media for Fysikbasserne",
+    "update": {
+        "type": "github",
+        "repo": "fysikbasserne/fysikmedia"
+    }
+}
