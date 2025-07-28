@@ -2,7 +2,7 @@
     "id": "FysikMedia",
     "title": "FysikMedia",
     "version": "1.0.1",
-    "interface": 90207,
+    "interface": 110107,
     "summary": "Shared Media for Fysikbasserne",
     "update": {
         "type": "github",
