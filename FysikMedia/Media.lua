@@ -41,4 +41,5 @@ FysikMedia.BreakMemes = {
         {[[Interface\AddOns\FysikMedia\Memes\draganekid.png]], 256, 346},
         {[[Interface\AddOns\FysikMedia\Memes\draganemirror.jpg]], 256, 455},
         {[[Interface\AddOns\FysikMedia\Memes\draganerave.png]], 256, 554},
+        {[[Interface\AddOns\FysikMedia\Memes\weecepiano.png]], 256, 241},
     }
