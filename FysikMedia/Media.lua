@@ -11,7 +11,6 @@ end
 
 FysikMedia.BreakMemes = {
         {[[Interface\AddOns\FysikMedia\Memes\daitosus.png]], 384, 366},
-        {[[Interface\AddOns\FysikMedia\Memes\draganeburger.png]], 384, 405},
         {[[Interface\AddOns\FysikMedia\Memes\draganecandy.png]], 384, 405},
         {[[Interface\AddOns\FysikMedia\Memes\draganehello.png]], 384, 405},
         {[[Interface\AddOns\FysikMedia\Memes\draganemarkus.png]], 384, 405},
@@ -36,10 +35,13 @@ FysikMedia.BreakMemes = {
         {[[Interface\AddOns\FysikMedia\Memes\antdate.jpg]], 384, 514},
         {[[Interface\AddOns\FysikMedia\Memes\antmirror.jpg]], 384, 512},
         {[[Interface\AddOns\FysikMedia\Memes\draganebaby.jpg]], 384, 512},
-        {[[Interface\AddOns\FysikMedia\Memes\draganeburger2.png]], 384, 479},
+        {[[Interface\AddOns\FysikMedia\Memes\draganeburger.png]], 384, 479},
         {[[Interface\AddOns\FysikMedia\Memes\draganeglasses.jpg]], 384, 682},
         {[[Interface\AddOns\FysikMedia\Memes\draganekid.png]], 384, 519},
         {[[Interface\AddOns\FysikMedia\Memes\draganemirror.jpg]], 384, 682},
         {[[Interface\AddOns\FysikMedia\Memes\draganerave.png]], 384, 831},
         {[[Interface\AddOns\FysikMedia\Memes\weecepiano.png]], 384, 362},
+        {[[Interface\AddOns\FysikMedia\Memes\daitotoilet.png]], 384, 384},
+        {[[Interface\AddOns\FysikMedia\Memes\tishcat.png]], 384, 515},
+
         }
