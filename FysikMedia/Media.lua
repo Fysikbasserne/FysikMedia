@@ -43,5 +43,10 @@ FysikMedia.BreakMemes = {
         {[[Interface\AddOns\FysikMedia\Memes\weecepiano.png]], 384, 362},
         {[[Interface\AddOns\FysikMedia\Memes\daitotoilet.png]], 384, 384},
         {[[Interface\AddOns\FysikMedia\Memes\tishcat.png]], 384, 515},
-
+        {[[Interface\AddOns\FysikMedia\Memes\antdrunk.png]], 384, 513},
+        {[[Interface\AddOns\FysikMedia\Memes\fibbo.png]], 384, 384},
+        {[[Interface\AddOns\FysikMedia\Memes\tishcamp.png]], 384, 384},
+        {[[Interface\AddOns\FysikMedia\Memes\waackocool.png]], 384, 540},
+        {[[Interface\AddOns\FysikMedia\Memes\waackomilitary.png]], 384, 494},
+        {[[Interface\AddOns\FysikMedia\Memes\waackostrong.png]], 384, 355},
         }

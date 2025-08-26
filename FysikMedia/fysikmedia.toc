@@ -1,5 +1,5 @@
-## Interface: 110107
+## Interface: 110200
 ## Title: Fysikmedia
 ## Category: Fysik
-## Version: 1.0.1
+## Version: 1.0.12
 Media.lua
